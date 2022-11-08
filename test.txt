@@ -1,1 +1,1 @@
-This is a test text for git-commit.
+This is a test text for git-commit. (!)
